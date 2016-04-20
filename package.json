@@ -1,0 +1,15 @@
+{
+  "name": "node-es6-server-playground",
+  "version": "1.0.0",
+  "description": "node server es6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "es6"
+  ],
+  "author": "Alexander Claeson",
+}
